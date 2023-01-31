@@ -2,12 +2,13 @@
 
 ## Technology used:
 - Apache Jmeter
+- Visual Studio Code
 
 ## Server Used: 
 - URL: https://dmoney.roadtocareer.net/
 
-## Working Modules:
-**Working modules are:**
+## Working Scenerio:
+**My Working Scenerios are:**
 
 1. Login to user
 2. Create a new agent
@@ -18,7 +19,7 @@
 7. Withdraw some money from the agent
 8. Delete the user
 
-## Reports
+## CLI Report:
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/123433625/215781579-fa919b26-b26a-4b8f-8789-622037487c32.png)
 
