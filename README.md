@@ -1,5 +1,3 @@
-<!-- Language: HTML -->
-
 
 # Dmoney-api-jmx
 
