@@ -20,6 +20,8 @@
 7. Withdraw some money from the agent
 8. Delete the user
 
+**I have also done the assertions for all the  scenarios.**
+
 ## CLI Report:
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/123433625/215781579-fa919b26-b26a-4b8f-8789-622037487c32.png)
