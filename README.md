@@ -20,7 +20,7 @@
 7. Withdraw some money from the agent
 8. Delete the user
 
-**I have also done the assertions for all the  scenarios.**
+**I have also done the assertions for all the responses.**
 
 ## CLI Report:
 
